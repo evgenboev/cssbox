@@ -1,0 +1,19 @@
+.btn {
+    color: white;
+    padding: 20px;
+    font-size: 14px;
+}
+
+.btn-1 { background-color: green;}
+.btn-2 { background-color: red;}
+.btn-3 { background-color: purple;}
+
+.box {
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    margin: 50px;
+    padding: 20px;
+    border: 10px solid black;
+
+}
